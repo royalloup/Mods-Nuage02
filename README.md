@@ -1,12 +1,24 @@
 # Mods PAYDAY 2 — Nuage 02
 
+## Nouveautés
+
+### Mise à jour du 27 avril 2026
+- **[MOD] Exorciste v2.7.0 — Nouveaux Skins** (consultable en jeu via le menu F6)
+  - Nouveaux skins Payday ajoutés
+  - Nouveaux skins de sac
+  - Skin pour le Medic Bag
+  - Skin pour le sac de munitions
+- **Extra Heist Info — Traduction française complète du menu** (1638 textes traduits)
+
+---
+
 ## Contenu du repo
 
 | Fichier | Description |
 |---|---|
 | `WSOCK32.dll` | SuperBLT — requis pour charger les mods |
 | `[MOD] Exorciste.tar.gz` | Trainer complet — Card Spoofer actif en solo ET multi |
-| `Mods-Nuage02-Complet.tar.gz` | Pack HUD Exorciste + Extra Heist Info + patch compatibilité |
+| `Mods-Nuage02-Complet.tar.gz` | Pack HUD Exorciste + Extra Heist Info (en français) + patch compatibilité |
 
 ---
 
@@ -36,6 +48,7 @@ SuperBLT est obligatoire pour faire fonctionner tous les mods.
 **Fonctionnalités incluses :**
 - Card Spoofer activé en **solo ET multijoueur** (drop toujours un coffre ou drill)
 - DLC Unlocker, AimBot, XRay, NoClip, SpawnMenu, et bien plus
+- **Nouveaux skins** (Payday, sacs, Medic Bag, sac de munitions) — voir le menu F6 en jeu
 - Auteur : **Nuage 02**
 
 ---
@@ -51,7 +64,7 @@ SuperBLT est obligatoire pour faire fonctionner tous les mods.
 
 **Contenu du pack :**
 - **Exorciste HUD** — HUD amélioré
-- **Extra Heist Info** — informations supplémentaires en mission
+- **Extra Heist Info** — informations supplémentaires en mission, **menu entièrement traduit en français**
 - **Patch de compatibilité** — les deux mods fonctionnent ensemble sans conflit
 
 ---
@@ -60,11 +73,11 @@ SuperBLT est obligatoire pour faire fonctionner tous les mods.
 
 ```
 PAYDAY 2/
-├── WSOCK32.dll               ← SuperBLT
+├── WSOCK32.dll                 ← SuperBLT
 └── mods/
-    ├── [MOD] Exorciste/      ← Trainer
-    ├── Exorciste HUD/        ← HUD (pack optionnel)
-    ├── ExtraHeistInfo/       ← Extra Heist Info (pack optionnel)
+    ├── [MOD] Exorciste/        ← Trainer
+    ├── Exorciste HUD/          ← HUD (pack optionnel)
+    ├── Extra Heist Info/       ← Extra Heist Info FR (pack optionnel)
     └── ExorcisteHUD-EHI-Patch/ ← Patch compatibilité (pack optionnel)
 ```
 
